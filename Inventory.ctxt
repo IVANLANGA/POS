@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Inventory
+comment1.params=
+comment1.target=Inventory()
+comment2.params=item
+comment2.target=void\ addItem(StockItem)
+comment3.params=item
+comment3.target=void\ removeItem(StockItem)
+comment4.params=item\ newCount
+comment4.target=void\ updateStockCount(StockItem,\ int)
+comment5.params=
+comment5.target=java.util.List\ getStockItems()
+comment6.params=itemName
+comment6.target=StockItem\ searchItem(java.lang.String)
+comment7.params=sales
+comment7.target=void\ setTotalSales(double)
+comment8.params=
+comment8.target=double\ getTotalSales()
+numComments=9
